@@ -24,8 +24,8 @@
 **Backend:** Node.js · Express.js · MongoDB · Redis · REST APIs  . Typescript
 **AI:** OpenAI / GPT APIs · AI Agents · Workflow Automation  
 **Bots:** Telegram Bot API · Discord.js  
-**Web3:** Solana · EVM · Solidity · Ethers.js · Web3.js · Phantom · MetaMask  
-**Infra:** VPS · Cloudflare · PM2 · GitHub · Scalable Deployments
+**Web3:** Solana · EVM · Solidity · Ethers.js · Web3.js · Phantom · MetaMask  . Jito . RPC
+**Infra:** VPS · Cloudflare · PM2 · GitHub · Scalable Deployments . MongoDB
 
 ---
 
