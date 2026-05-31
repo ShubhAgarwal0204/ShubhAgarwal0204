@@ -62,7 +62,7 @@ You should work with me if you need someone who can:
 ---
 
 ## Connect
-- 💼 [IG](https://www.instagram.com//shubh_.agarwal)
+- 💼 [Instagram](https://www.instagram.com//shubh_.agarwal)
 - 🌐 [IdeaHatch Labs](https://ideahatchlabs.com)
 - 📩 Open to: Freelance Projects · Startups · MVP Development
 
