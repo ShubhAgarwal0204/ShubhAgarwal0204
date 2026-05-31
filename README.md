@@ -1,7 +1,7 @@
 # Shubh Agarwal — Senior Full-Stack Developer
 
 > Building scalable web apps, AI automation systems & SaaS platforms.  
-> Senior Developer @ IdeaHatch Labs · 5+ years of experience
+> Senior Developer @IdeaHatchLabs · 5+ years of experience
 
 ---
 
