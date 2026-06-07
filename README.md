@@ -1,4 +1,4 @@
-# Shubh Agarwal — Senior Full-Stack Developer
+# Shubh Agarwal | Senior Full-Stack Developer
 
 > Building scalable web apps, AI automation systems & SaaS platforms.  
 > Senior Developer @IdeaHatchLabs · 5+ years of experience
@@ -49,7 +49,7 @@
 
 ## Work With Me
 
-I handle the full product journey — architecture, development, deployment & scaling.
+I handle the full product journey - architecture, development, deployment & scaling.
 
 You should work with me if you need someone who can:
 
@@ -68,4 +68,4 @@ You should work with me if you need someone who can:
 
 ---
 
-> *"I don't just write code — I build products that work for real users."*
+> *"I don't just write code, I build products that work for real users."*
